@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @Hugh415
-- 👀 I’m interested in AI, reading novels, Pokemon ...
-- 🌱 I’m currently learning AI, and my profession is focused on molecular generation...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : you can contact me on QQ, my id is 3272282882...
-- 😄 Pronouns: He...
-- ⚡ Fun fact: I'm bad at English, without idea to describe it...
-
-<!---
-Hugh415/Hugh415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in AI, reading novels, Pokemon, and especially playing **Three Kingdoms Kill**!
+- 🎹 I have experience learning piano and broadcasting & hosting.
+- 🌱 I’m currently focusing on deep learning for property prediction of organic molecules. My main research direction is using deep learning to assist in predicting organic molecular properties.
+- 📝 I am the first author of a paper currently under review at the CCF B journal *Briefings in Bioinformatics*.
+- 🧑‍💼 My supervisor is Prof. Wang Qi, but I am currently working and studying under Prof. Li Yuquan, who is in the same research group as Prof. Wang.
+- 💞️ I’m looking forward to collaborating on research projects related to AI and computational chemistry.
+- 🎓 My goal is to pursue postgraduate and even doctoral studies. Right now, I am anxiously preparing for postgraduate recommendation.
+- 📫 How to reach me:  
+    - QQ: 3272282882  
+    - School Email: sdc.hyhong22@gzu.edu.cn  
+    - Gmail: hughhong415@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m still improving my English, and always looking for better ways to express myself!
